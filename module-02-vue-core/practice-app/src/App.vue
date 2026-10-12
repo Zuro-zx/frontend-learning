@@ -1,7 +1,7 @@
 <script setup>
-import Toggle from './School.vue';
+import Activity from './views/unit-04/Activity.vue'
 </script>
 
 <template>
-  <Toggle/>
+  <Activity />
 </template>
