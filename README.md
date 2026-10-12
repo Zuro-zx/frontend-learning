@@ -21,11 +21,11 @@ frontend-learning/
 ├── module-01-toolchain/        模块一 · 工程化认知与工具链（12 学时，第 1-3 周）
 │   ├── unit-01-env/            单元 1 环境自检、学习路线图
 │   ├── unit-02-package-vite/   单元 2 依赖排查单、vite.config.js
+│   │   └── vite-scaffold-demo/ 脚手架初始化的原始工程，构建工具对照样本
 │   └── unit-03-quality-git/    单元 3 规范治理、提交钩子、流水线配置
 ├── module-02-vue-core/         模块二 · Vue 3 核心基础（12 学时，第 4-6 周）
 │   ├── practice-app/           课堂练习工程，src/views 内按单元分组
-│   ├── demos/                  早期练习工程（helloword、vite-vue-demo）
-│   └── examples/               单文件示例（01-vue-literal 字面量入门）
+│   └── demos/                  早期练习工程（helloword 首个 Vite + Vue3 工程）
 ├── module-03-components/       模块三 · 组件化开发（8 学时，第 7-8 周）
 │   └── practice-app/           自研组件与组合式函数
 ├── module-04-architecture/     模块四 · 应用架构（8 学时，第 9-10 周）
