@@ -33,3 +33,6 @@ tools/
 
 # macOS 压缩包垃圾
 __MACOSX/
+
+# pnpm 本地缓存
+.pnpm-store/
